@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andy3601
 - 👀 I’m interested in Computer programming, 3d printing, Arduino
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python, Java and Kotlin
 - 💞️ I’m looking to collaborate on making first projects with Django,
 - 📫 How to reach me: bezonmts@gmail.com
 
